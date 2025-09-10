@@ -1,6 +1,6 @@
 {
   "name": "node-red-contrib-lifesmart",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "A Node-RED node for Lifesmart smart home gateway integration with local device control and management",
   "main": "geeqee-lifesmart.js",
   "scripts": {
